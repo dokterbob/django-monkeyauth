@@ -1,0 +1,12 @@
+settings_local.py
+static/newsletter/images
+portnumber
+database.sqlite
+*.pyc
+*.pyo
+build
+dist
+MANIFEST
+*.egg-info
+distribute-*
+.DS_Store
