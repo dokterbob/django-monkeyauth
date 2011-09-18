@@ -34,7 +34,7 @@ except:
 setup(
     name = 'django-monkeyauth',
     version = "0.1",
-    description = 'Experimenta anonymous one time password auth backend for Django.',
+    description = 'Experimenta; anonymous one time password auth backend for Django.',
     long_description = README,
     install_requires=REQUIREMENTS,
     author = 'Mathijs de Bruin',
